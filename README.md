@@ -1,4 +1,4 @@
-# github-handle-origins
+# handle-origin-stories
 
 Stories behind GitHub handles.
 
